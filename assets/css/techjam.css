@@ -4,12 +4,13 @@ img.hp-rover {
 }
 
 .header-full-title {
-    padding-left: 104px;
+    background-image: url("/assets/img/blank.svg");
+    padding-left: 5px;
 }
 
 .navbar-default .navbar-brand {
     background-image: url("/assets/img/blank.svg");
-    padding-left: 53px;
+    padding-left: 5px;
     text-transform: none;
 }
 
